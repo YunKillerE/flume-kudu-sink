@@ -37,6 +37,9 @@ priKey：当上面为第三种情况时，此字段才有用，值为主键名�
 
 ## 3，配置参考
 
+> wget --no-check-certificate http://raw.githubusercontent.com/bosshart/kuduscreencast/master/integrations/flume_ratings.tsv
+
+
 1. 第一种情况实例
 ```
 at.sources  = source1
